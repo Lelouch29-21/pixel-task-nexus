@@ -4,6 +4,10 @@ Pixel Task Nexus is a light-mode collaborative task management web app designed 
 
 This project is intentionally built as a static frontend (HTML/CSS/JS) so it can be hosted on GitHub Pages while still supporting optional realtime sync via Firebase Firestore.
 
+## Live GitHub Pages
+
+- Open on phone/desktop: https://lelouch29-21.github.io/pixel-task-nexus/
+
 ## Why This Exists
 
 Most small-team task boards miss three practical realities:
